@@ -1,52 +1,57 @@
-# header one
-## header two
-### header three
-  * red
-  * blue
-  * green
+# Daryl Shifflett
+
 # Contact Information
 **Daryl Shifflett _This is the way_**<br/>
 *darylshifflett.com*<br/>
 619-464-9695
 # Technologies
-- [Java](https://docs.oracle.com/en/java/)
-- Javascript
 - HTML
-- [Python](https://docs.python.org/3/)
-- Ruby
+- CSS
+- Javascript
+
 # Employment History
-* Home Controls 
-  * Operations manager : In charge of SOP's, Kaizens and team developments
-* Amazon
-  * SRH Manager overseeing the launch of Amazon Physical retail stores
+* Home Controls - Operations Manager (2022-present)
+  * In charge of SOP's, Kaizens and team development.
+  * Managed the following departments: Customer service, Warehouse operations, Technical support, finance and inventory buying.
+  * Managed pricing and margins for manufacturer distribution
+* Amazon - SRH Manager (2016-2021)
+  * Coordinated and ran the launch of Amazon Physical retail stores across the US
+  * Wrote and published standard operating procedure that are currently in use by 500,000 employees
+  * Created mechanisms that helped track data to increase performance metrics. These being Prime, attach rate, NPS scores and flash class attendance
+* Sunglass Hut - Manager (2015-2016)
+  * Oversaw and ran all operations and training of the largest volume location on the west coast
+  * Achieved the highest sales percent over goal for our first year open with +62 to plan in 2012. Achieved the third highest sales % to plan in 2013 with +19% to goal and had the highest % over comp LY performance with +39%.
+
+    
 # Ordered Items
 1. Item 1
 1. Item 2
    1. Item 2a
    1. Item 2b
 1. Item 3
-# Table
+   
+# My favorite albums ranked
 Band | album | Comment
 ------|-----|--------
- Metallica| Black | #1
- Bon Jovi | Slippery when wet | #2
-  | 0x0000ff | my color
+ Breaking Benjamin| Dark Before Dawn | #1
+ Pearljam | Black | #2
+ Taking Back Sunday | Tell All Your Friends | #3
 
 #### Hi there, I'm Daryl Shifflett [daredaryl][website]
 - 👋 Hi, I’m @daredaryl
 - 🌱 I’m currently training on [GitHub Course][website]
-- 🔭 I’m currently working on starting with github and html/css
+- 🔭 I’m currently working on web development; HTML, CSS and Javascript
 - 🌱 I’m currently learning how to create repositories
 - 👯 I’m looking to collaborate on everything
-- 🤔 I’m looking for help with git init
+- 🤔 I’m looking for help with creating clean code
 - 💬 Ask me about rock climbing
 - ⚡ Fun fact: I competed nationally in the APA for billiards (8 ball)
 ### connect with me.
-[<img alt="Daryl Shifflett" width="40px" src="[C:\Users\sinti\Downloads\Untitled design (3).pngjpg](https://media.licdn.com/dms/image/C5603AQFtWzzOjGO6dw/profile-displayphoto-shrink_800_800/0/1657397095867?e=1721260800&v=beta&t=4fSSqDdtXPxoSDo2ZdEpSessYugnBY1Jy22BmnhZp3o)" />][website]
+[<img alt=" " />][website]
 <!---
 karlllarson/karlllarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
---
+--->
 some code
 [website]: [https://www.facebook.com/LarsonIpPc](https://www.linkedin.com/in/daryl-shifflett-168a4331?original_referer=https%3A%2F%2Fwww.google.com%2F)]
