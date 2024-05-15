@@ -37,7 +37,7 @@ Band | album | Comment
  Pearljam | Black | #2
  Taking Back Sunday | Tell All Your Friends | #3
 
-#### Hi there, I'm Daryl Shifflett [daredaryl][website]
+#### Hi there, I'm Daryl Shifflett [daredaryl]
 - 👋 Hi, I’m @daredaryl
 - 🌱 I’m currently training on [GitHub Course][website]
 - 🔭 I’m currently working on web development; HTML, CSS and Javascript
