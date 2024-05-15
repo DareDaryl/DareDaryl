@@ -47,11 +47,5 @@ Band | album | Comment
 - 💬 Ask me about rock climbing
 - ⚡ Fun fact: I competed nationally in the APA for billiards (8 ball)
 ### connect with me.
-[<img alt=" " />][website]
-<!---
-karlllarson/karlllarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
---->
-some code
-[website]: [https://www.facebook.com/LarsonIpPc](https://www.linkedin.com/in/daryl-shifflett-168a4331?original_referer=https%3A%2F%2Fwww.google.com%2F)]
+
+
