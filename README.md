@@ -1,7 +1,7 @@
 # Daryl Shifflett
 #### Hi there, I'm Daryl Shifflett [daredaryl]
 - 👋 I'm a software engineering student that is learning full-stack coding 
-- 🌱 I’m currently training in a software engineering bootcamp through Quickstart (UCSB)
+- 🌱 I’m currently training in a bootcamp through Quickstart (UCSB)
 - 🔭 I’m currently working on web development; HTML, CSS and Javascript
 - 🌱 I’m currently learning how to create repositories
 - 👯 I’m looking to collaborate on everything. I'm hungry to learn!
