@@ -22,6 +22,11 @@
   * Oversaw and ran all operations and training of the largest volume location on the west coast
   * Achieved the highest sales percent over goal for our first year open with +62 to plan in 2012. Achieved the third highest sales % to plan in 2013 with +19% to goal and had the highest % over comp LY performance with +39%.
 
+# Education
+* Quickstart - UCSB (2024)
+  * Software Engineering - Full stack
+* Grossmont Colleg (2006-2008)
+  * German language and literature
     
 # Ordered Items
 1. Item 1
