@@ -35,7 +35,7 @@
 # Education
 * Quickstart - UCSB (2024)
   * Software Engineering - Full stack
-* Grossmont Colleg (2006-2008)
+* Grossmont College (2006-2008)
   * German language and literature
     
 # Current Projects
