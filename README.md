@@ -1,9 +1,19 @@
 # Daryl Shifflett
+#### Hi there, I'm Daryl Shifflett [daredaryl]
+- 👋 I'm a software engineering student that is learning full-stack coding 
+- 🌱 I’m currently training on [GitHub Course][website]
+- 🔭 I’m currently working on web development; HTML, CSS and Javascript
+- 🌱 I’m currently learning how to create repositories
+- 👯 I’m looking to collaborate on everything
+- 🤔 I’m looking for help with creating clean code
+- 💬 Ask me about rock climbing
+- ⚡ Fun fact: I competed nationally in the APA for billiards (8 ball)
 
 # Contact Information
 **Daryl Shifflett _This is the way_**<br/>
 *darylshifflett.com*<br/>
 619-464-9695
+
 # Technologies
 - HTML
 - CSS
@@ -28,12 +38,11 @@
 * Grossmont Colleg (2006-2008)
   * German language and literature
     
-# Ordered Items
-1. Item 1
-1. Item 2
-   1. Item 2a
-   1. Item 2b
-1. Item 3
+# Current Projects
+* Project 1: Basic business and personal website
+* Project 2: Website with a search engine
+* Project 3: Nodejs Express
+
    
 # My favorite albums ranked
 Band | album | Comment
@@ -42,15 +51,8 @@ Band | album | Comment
  Pearljam | Black | #2
  Taking Back Sunday | Tell All Your Friends | #3
 
-#### Hi there, I'm Daryl Shifflett [daredaryl]
-- 👋 Hi, I’m @daredaryl
-- 🌱 I’m currently training on [GitHub Course][website]
-- 🔭 I’m currently working on web development; HTML, CSS and Javascript
-- 🌱 I’m currently learning how to create repositories
-- 👯 I’m looking to collaborate on everything
-- 🤔 I’m looking for help with creating clean code
-- 💬 Ask me about rock climbing
-- ⚡ Fun fact: I competed nationally in the APA for billiards (8 ball)
-### connect with me.
-
+# Links
+1. LinkedIn: https://www.linkedin.com/in/daryl-shifflett-168a4331/
+1. Github: https://github.com/DareDaryl?ocid=AIDcmmcwpj1e5v_SEM__k_Cj0KCQjw3ZayBhDRARIsAPWzx8o2j5nWuMrxRQlhOjuG8grIb9fVU4wUnDy-yROTShNM9a3GT50v_HwaAqqdEALw_wcB_k_
+1. Instagram: https://www.instagram.com/dare.daryl?igsh=YTQwZjQ0NmI0OA%3D%3D&utm_source=qr
 
