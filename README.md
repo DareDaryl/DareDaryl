@@ -23,12 +23,12 @@
 
 # Employment History
 * Home Controls - Operations Manager (2022-present)
-  * In charge of SOP's, Kaizens and team development.
+  * In charge of SOP's, Kaizens, Operations and team development.
   * Managed the following departments: Customer service, Warehouse operations, Technical support, finance and inventory buying.
   * Managed pricing and margins for manufacturer distribution
 * Amazon - SRH Manager (2016-2021)
-  * Coordinated and ran the launch of Amazon Physical retail stores across the US
-  * Wrote and published standard operating procedure that are currently in use by 500,000 employees
+  * Coordinated and ran the launch of Amazon Physical retail stores across the US.
+  * Wrote and published a standard operating procedure that are currently in use by 500,000 employees
   * Created mechanisms that helped track data to increase performance metrics. These being Prime, attach rate, NPS scores and flash class attendance
 * Sunglass Hut - Manager (2015-2016)
   * Oversaw and ran all operations and training of the largest volume location on the west coast
