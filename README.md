@@ -30,6 +30,8 @@
   * Coordinated and ran the launch of Amazon Physical retail stores across the US.
   * Wrote and published a standard operating procedure that are currently in use by 500,000 employees
   * Created mechanisms that helped track data to increase performance metrics. These being Prime, attach rate, NPS scores and flash class attendance
+  * Managed a team of over 40 direct reports
+  * Hired and trained over 15 managers and over 130 blue badge employees. 
 * Sunglass Hut - Manager (2015-2016)
   * Oversaw and ran all operations and training of the largest volume location on the west coast
   * Achieved the highest sales percent over goal for our first year open with +62 to plan in 2012. Achieved the third highest sales % to plan in 2013 with +19% to goal and had the highest % over comp LY performance with +39%.
