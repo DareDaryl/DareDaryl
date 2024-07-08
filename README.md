@@ -2,10 +2,10 @@
 #### Hi there, I'm Daryl Shifflett [daredaryl]
 - 👋 I'm a software engineering student studying full stack coding. 
 - 🌱 I’m currently training in a bootcamp through Quickstart (UCSB)
-- 🔭 I’m currently working on web development; HTML, CSS, Javascript, UX, product design and Bootstrap
+- 🔭 I’m currently working on web development; HTML, CSS, Javascript, UX, algorithms, data structures, product design and Bootstrap
 - 🌱 I’m currently learning Javascript.
 - 👯 I’m looking to collaborate on everything. I'm hungry to learn!
-- 🤔 I’m looking for help with creating clean code
+- 🤔 I’m looking for help with javascript arrays 
 - 💬 Ask me about rock climbing
 - ⚡ Fun fact: I competed nationally in the APA for billiards (8 ball)
 
