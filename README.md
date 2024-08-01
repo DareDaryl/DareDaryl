@@ -2,8 +2,8 @@
 #### Hi there, I'm Daryl Shifflett [daredaryl]
 - 👋 I'm a software engineering student studying full stack coding. 
 - 🌱 I’m currently training in a bootcamp through Quickstart (UCSB)
-- 🔭 I’m currently working on web development; HTML, CSS, Javascript, UX, algorithms, data structures, product design and Bootstrap
-- 🌱 I’m currently learning Javascript.
+- 🔭 I’m currently working on web development; React, HTML, CSS, Javascript, UX, algorithms, data structures, product design and Bootstrap
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on everything. I'm hungry to learn!
 - 🤔 I’m looking for help with javascript arrays 
 - 💬 Ask me about rock climbing
@@ -50,7 +50,7 @@
 
    
 # My favorite albums ranked
-Band | album | Comment
+Band | album   | Comment
 ------|-----|--------
  Breaking Benjamin| Dark Before Dawn | #1
  Pearljam | Black | #2
