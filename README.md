@@ -1,11 +1,11 @@
   # Daryl Shifflett
 #### Hi there, I'm Daryl Shifflett [daredaryl]
-- 👋 I'm a software engineering student studying full stack coding. 
+- 👋 I'm a software engineering new grad where I studied full stack 
 - 🌱 I’m currently training in a bootcamp through Quickstart (UCSB)
 - 🔭 I’m currently working on web development; React, HTML, CSS, Javascript, UX, algorithms, data structures, product design, Bootstrap, node.js and API's
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on everything. I'm hungry to learn!
-- 🤔 I’m looking for help with javascript arrays 
+- 🤔 I’m looking for help with initializing servers
 - 💬 Ask me about rock climbing
 - ⚡ Fun fact: I competed nationally in the APA for billiards (8 ball)
 
