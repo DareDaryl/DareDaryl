@@ -17,7 +17,6 @@
 # Contact Information
 **Daryl Shifflett _This is the way_**<br/>
 *darylshifflett@gmail.com*<br/>
-*www.darylshifflett.com*<br/>
 619-464-9695
 
 # Technologies
