@@ -1,6 +1,6 @@
   # Daryl Shifflett
 #### Hi there, I'm Daryl Shifflett [daredaryl]
-- 👋 I'm a Software Engineer new grad
+- 👋 I'm a Software Engineer new grad having studied full-stack
 - 🌱 I’m currently an Operations Manager at Home Controls
 - 🔭 I’m currently working on react and node.js
 - 🌱 I’m currently learning python
