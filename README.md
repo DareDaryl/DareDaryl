@@ -20,11 +20,11 @@
 619-464-9695
 
 # Technologies
-- HTML
-- CSS
-- Javascript
+- Git
+- MySql
+- Node.js
 - UX
-- Product design
+- Express
 
 # Employment History
 * Home Controls - Operations Manager (2022-present)
