@@ -20,7 +20,7 @@
 619-464-9695
 
 # Technologies
-- Git
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3bf6d33a-b44d-49be-beb4-d91af91eb824" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 - MySql
 - Node.js
 - UX
