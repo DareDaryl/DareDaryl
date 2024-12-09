@@ -2,10 +2,10 @@
 #### Hi there, I'm Daryl Shifflett [daredaryl]
 - 👋 I'm a Software Engineer new grad having studied full-stack
 - 🌱 I’m currently an Operations Manager at Home Controls
-- 🔭 I’m currently working on react and node.js
+- 🔭 I’m currently working on building a music/mp3 player
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on everything. I'm hungry to learn!
-- 🤔 I’m looking for help finding an entry level position where I can grow
+- 🤔 I’m looking for help finding a position in a company where I can grow. 
 - 💬 Ask me about rock climbing
 - ⚡ Fun fact: I competed nationally in the APA for billiards (8 ball)
 # 💻Tech Stack
@@ -19,11 +19,7 @@
 *darylshifflett@gmail.com*<br/>
 619-464-9695
 
-# Technologies
-- MySql
-- Node.js
-- UX
-- Express
+
 
 # Employment History
 * Home Controls - Operations Manager (2022-present)
