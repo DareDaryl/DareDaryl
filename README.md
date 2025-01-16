@@ -40,7 +40,7 @@
 * Quickstart - UCSB (2024)
   * Software Engineering - Full stack
 * Grossmont College (2006-2008)
-  * German language and literature
+  * Business mgmt and German language 
     
 # Current Projects
 * Project 1: Basic business and personal website
