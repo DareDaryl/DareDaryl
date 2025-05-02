@@ -43,9 +43,9 @@
   * Business mgmt and German language 
     
 # Current Projects
-* Project 1: Basic business and personal website
+* Project 1: Personal Blog
 * Project 2: Website with a search engine
-* Project 3: Nodejs Express
+* Project 3: Music MP3 player
 * Project 4: Web-app-using-Node.js-Express-and-SQL
 
    
