@@ -1,6 +1,6 @@
   # Daryl Shifflett
 #### Hi there, I'm Daryl Shifflett [daredaryl]
-- 👋 I'm a full stack Software Engineering
+- 👋 I'm a full stack Software Engineer
 - 🌱 I’m currently an Operations Manager at Home Controls
 - 🔭 I’m currently working on building a website for a divorce attorney
 - 🌱 I’m currently learning python
